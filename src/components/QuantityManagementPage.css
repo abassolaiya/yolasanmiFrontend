@@ -1,0 +1,31 @@
+/* QuantityManagementPage.css */
+.quantity-management-page {
+  padding: 20px;
+}
+
+.quantity-management-page h1 {
+  margin-bottom: 20px;
+}
+
+.quantity-management-page label {
+  display: block;
+  margin-top: 10px;
+}
+
+.quantity-management-page input,
+.quantity-management-page select {
+  margin-top: 5px;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.quantity-management-page button {
+  margin-top: 20px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
